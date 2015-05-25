@@ -8,7 +8,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src/main/resources"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/textiles-core"/>
-	<classpathentry kind="lib" path="C:/Users/Brendan/Downloads/jgrapht-master/jgrapht-master/jgrapht-core/target/jgrapht-core-0.9.1-SNAPSHOT.jar"/>
 	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
 		<attributes>
 			<attribute name="optional" value="true"/>
